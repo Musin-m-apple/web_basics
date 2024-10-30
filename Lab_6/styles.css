@@ -51,3 +51,11 @@ p {
     color: white;
     font-size: 16px;
 }
+ 
+   
+ p , ul  {
+    font-family: "Playwrite GB S", cursive;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+ }
